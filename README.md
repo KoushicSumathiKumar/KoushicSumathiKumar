@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Koushic Sumathi Kumar
 - 🌱 BSc Computer Science, University of Sussex
-- ☕ Preferred languages are Java and Python
+- ☕ Preferred languages are Python and Java
   
 
 <!---
