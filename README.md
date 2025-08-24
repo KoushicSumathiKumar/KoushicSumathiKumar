@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Koushic Sumathi Kumar
 - 🌱 BSc Computer Science, University of Sussex
-- ☕ Preferred languages are Python, Java and JavaScript (alongside React)
-- 📝 Leaning TypeScript
+- ☕ Preferred languages are Python, C#, Java and TypeScript (alongside Next/React)
+- 🏢 Working at Campsites.co.uk as a Junior Full Stack Developer
 - 💭 Have any questions? Don't hesitate to drop a message on my [LinkedIn](https://www.linkedin.com/in/koushic-sumathi-kumar/) :)
 
   
